@@ -15,38 +15,38 @@ A simple console calculator that performs basic arithmetic operations:
 ### 2. 💸 Expense Tracker
 Track your personal expenses by:
 
-Adding category and amount
+- Adding category and amount
 
-Viewing all expenses
+- Viewing all expenses
 
-Calculating total spend
+- Calculating total spend
 
-Concepts Used: Classes, Objects, Loops, ArrayList, Input handling
+- Concepts Used: Classes, Objects, Loops, ArrayList, Input handling
 
 
 ### 3. A fun guessing game where:
 
-The computer picks a number from 1 to 100
+- The computer picks a number from 1 to 100
 
-The user keeps guessing until correct
+- The user keeps guessing until correct
 
-Tracks the number of attempts
+- Tracks the number of attempts
 
-Concepts Used: Random numbers, Loops, Scanner, if-else
+- Concepts Used: Random numbers, Loops, Scanner, if-else
 
 
-### 4 A basic to-do list manager where you can:
+### 4. A basic to-do list manager where you can:
 
-Add tasks
+- Add tasks
 
-View all tasks
+- View all tasks
 
-Delete tasks
+- Delete tasks
 
-Features:
+- Features:
 
-Uses ArrayList to dynamically store tasks
+- Uses ArrayList to dynamically store tasks
 
-Menu-driven interface
+- Menu-driven interface
 
-Easy to extend with "Mark as Done" or file-saving
+- Easy to extend with "Mark as Done" or file-saving
